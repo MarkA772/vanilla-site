@@ -1,0 +1,6 @@
+[submodule "breakout"]
+	path = breakout
+	url = ./breakout/
+[submodule "snakeClone-Phaser"]
+	path = snakeClone-Phaser
+	url = ./snakeClone-Phaser/
